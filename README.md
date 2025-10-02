@@ -1,12 +1,17 @@
-# sample01
-Color값 변경 가능한 CSS선택으로 주컬러와 배경을 다르게 사용할 수 있는 개인 포트폴리오.
+# 송가영 (Gayoung Song) - AI / SW Developer Portfolio
 
+AI와 소프트웨어 개발에 열정을 가진 학생 송가영입니다. 새로운 기술을 배우고 적용하는 것을 즐깁니다.
 
-https://aebonlee.github.io/Portfolio02/
+## Technologies Used
 
+- HTML5, CSS3, JavaScript
+- Python
 
-<img src="pt001.png" />
-<img src="pt002.png" />
-<img src="pt003.png" />
-<img src="pt004.png" />
-<img src="pt005.png" />
+## Getting Started
+
+This is a static website. You can open the `index.html` file in your browser to view the portfolio.
+
+## Contact
+
+- **Email**: sgayoung129@gmail.com
+- **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
