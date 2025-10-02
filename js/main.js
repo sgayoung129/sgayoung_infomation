@@ -2,13 +2,12 @@
 
 
 /* ===== typing animation ===== */
-let typed = new Typed(".typing", {
-  strings: ["", "Product Manager", "Designer", "Programmer", "Publisher", "Marketer "
-],
+var typed = new Typed(".typing", {
+  strings: ["AI", "SW"],
   typeSpeed: 100,
-  BackSpeed: 60,
+  backSpeed: 60,
   loop: true
-})
+});
 /* ===== Aside ===== */
 const nav = document.querySelector(".nav"),
   navList = nav.querySelectorAll("li"),
