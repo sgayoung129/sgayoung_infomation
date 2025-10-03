@@ -3,7 +3,7 @@
 
 /* ===== typing animation ===== */
 var typed = new Typed(".typing", {
-  strings: ["AI", "SW"],
+  strings: ["Creator"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
