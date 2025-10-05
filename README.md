@@ -11,7 +11,7 @@ AI와 소프트웨어 개발에 열정을 가진 학생 송가영입니다. 새�
 
 This is a static website. You can open the `index.html` file in your browser to view the portfolio.
 
-## Contact
+## Contact 
  
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
